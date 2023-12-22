@@ -1,5 +1,0 @@
----
-applications:
-- name: dummy-api
-  buildpack: https://github.com/cloudfoundry/go-buildpack.git
-  command: playground

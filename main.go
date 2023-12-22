@@ -7,7 +7,7 @@ import (
 	"os"
 
 	"github.com/gorilla/mux"
-	"github.com/playground/types"
+	"github.com/willmadison/playground/types"
 )
 
 func main() {
